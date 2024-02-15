@@ -9,5 +9,5 @@ YOU NEED TO INSTALL SOME EXTENSIONS
 pip install python-telegram-bot
 pip install playwright
 
-# replace the token with a valid one 
-# other from pip install commands check the import part
+replace the token with a valid one 
+other from pip install commands check the import part
