@@ -1,8 +1,13 @@
 # mal-telegrambot
-Just a basic bot which scrapes the seach reesult you type in and provides you the synopsis other the entered anime or manga from mal.
+Just a basic bot which scrapes the search result you type in and provides you the synopsis of the entered anime or manga from MAL.
+
+
 
 
 
 YOU NEED TO INSTALL SOME EXTENSIONS
 pip install python-telegram-bot
-pi[p install playwright
+pip install playwright
+
+# replace the token with a valid one 
+# other from pip install commands check the import part
